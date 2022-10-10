@@ -1,0 +1,21 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ParentCoreProcess/Dockerfile" type="docker-deploy" factoryName="dockerfile" server-name="DockerOnAWS">
+    <deployment type="dockerfile">
+      <settings>
+        <option name="containerName" value="attach-demo" />
+        <option name="contextFolderPath" value="." />
+        <option name="portBindings">
+          <list>
+            <DockerPortBindingImpl>
+              <option name="containerPort" value="22" />
+              <option name="hostPort" value="2222" />
+            </DockerPortBindingImpl>
+          </list>
+        </option>
+        <option name="sourceFilePath" value="ParentCoreProcess/Dockerfile" />
+      </settings>
+    </deployment>
+    <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isPublishEnabled="true" />
+    <method v="2" />
+  </configuration>
+</component>

@@ -1,0 +1,7 @@
+/Users/Nadezhda.Novikovskaya/Downloads/AttachDemo/publish/OtherParentCoreProcess
+/Users/Nadezhda.Novikovskaya/Downloads/AttachDemo/publish/OtherParentCoreProcess.dll
+/Users/Nadezhda.Novikovskaya/Downloads/AttachDemo/publish/OtherParentCoreProcess.deps.json
+/Users/Nadezhda.Novikovskaya/Downloads/AttachDemo/publish/OtherParentCoreProcess.runtimeconfig.json
+/Users/Nadezhda.Novikovskaya/Downloads/AttachDemo/publish/OtherParentCoreProcess.pdb
+/Users/Nadezhda.Novikovskaya/Downloads/AttachDemo/publish/Lib.dll
+/Users/Nadezhda.Novikovskaya/Downloads/AttachDemo/publish/Lib.pdb

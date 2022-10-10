@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Publish All" type="CompoundRunConfigurationType">
+    <toRun name="Publish Child" type="DotNetFolderPublish" />
+    <toRun name="Publish Other Parent" type="DotNetFolderPublish" />
+    <toRun name="Publish Parent" type="DotNetFolderPublish" />
+    <method v="2" />
+  </configuration>
+</component>

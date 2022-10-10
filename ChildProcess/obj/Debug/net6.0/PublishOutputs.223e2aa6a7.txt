@@ -1,0 +1,7 @@
+/Users/Nadezhda.Novikovskaya/Downloads/AttachDemo/publish/ChildProcess
+/Users/Nadezhda.Novikovskaya/Downloads/AttachDemo/publish/ChildProcess.dll
+/Users/Nadezhda.Novikovskaya/Downloads/AttachDemo/publish/ChildProcess.deps.json
+/Users/Nadezhda.Novikovskaya/Downloads/AttachDemo/publish/ChildProcess.runtimeconfig.json
+/Users/Nadezhda.Novikovskaya/Downloads/AttachDemo/publish/ChildProcess.pdb
+/Users/Nadezhda.Novikovskaya/Downloads/AttachDemo/publish/Lib.dll
+/Users/Nadezhda.Novikovskaya/Downloads/AttachDemo/publish/Lib.pdb

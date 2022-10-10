@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Publish Child" type="DotNetFolderPublish" factoryName="Publish to folder">
+    <riderPublish configuration="Debug" platform="Any CPU" runtime="Portable" target_folder="$PROJECT_DIR$/publish" target_framework="net6.0" uuid_high="-8098502914682502820" uuid_low="-8458921609195141469" />
+    <method v="2" />
+  </configuration>
+</component>
